@@ -1,0 +1,6 @@
+@custom_service_discovery.Api_HostAddress = http://localhost:5198
+
+GET {{custom_service_discovery.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

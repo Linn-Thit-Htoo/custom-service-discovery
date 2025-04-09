@@ -1,0 +1,6 @@
+@custom_service_discovery.Gateway_HostAddress = http://localhost:5290
+
+GET {{custom_service_discovery.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
