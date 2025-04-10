@@ -13,7 +13,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="PPM.Ocelot" Version="1.0.3" />
+		<PackageReference Include="PPM.Ocelot" Version="1.0.4" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
 		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.13" />
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
