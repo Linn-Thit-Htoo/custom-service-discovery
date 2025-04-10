@@ -9,6 +9,7 @@
 
 	<ItemGroup>
 		<Content Remove="C:\Users\USER\.nuget\packages\ppm.ocelot\1.0.2\contentFiles\any\net8.0\ocelot.Development.json" />
+		<Content Remove="C:\Users\USER\.nuget\packages\ppm.ocelot\1.0.3\contentFiles\any\net8.0\ocelot.Development.json" />
 	</ItemGroup>
 
 	<ItemGroup>
