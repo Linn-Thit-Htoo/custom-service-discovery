@@ -1,6 +1,5 @@
 ﻿using custom_service_discovery.Api.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Routing;
 
 namespace custom_service_discovery.Api.Controllers
 {
