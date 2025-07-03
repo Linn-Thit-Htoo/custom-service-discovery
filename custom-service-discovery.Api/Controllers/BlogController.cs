@@ -16,10 +16,10 @@ public class BlogController : ControllerBase
             {
                 BlogId = 1,
                 BlogTitle = "Test",
-                BlogAuthor  = "Test",
-                BlogContent= "Test",
-                IsDeleted = false
-            }
+                BlogAuthor = "Test",
+                BlogContent = "Test",
+                IsDeleted = false,
+            },
         };
 
         return Ok(lst);
